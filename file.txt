@@ -1,1 +1,2 @@
 this is day two of git practice
+this is the second line of file.txt
