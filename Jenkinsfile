@@ -8,9 +8,11 @@ pipeline {
             }
         }
 
+
+
         stage('Builds') {
             steps {
-                echo 'Building project...'
+                sh 'npm install invalid-package-xyz'
             }
         }
 
